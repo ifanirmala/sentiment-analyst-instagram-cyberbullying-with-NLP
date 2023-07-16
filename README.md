@@ -1,1 +1,3 @@
 # sentiment-analyst-instagram-cyberbullying-with-NLP
+Penggunaan Natural Language Processing (NLP) untuk melakukan analisis sentimen pada komentar Instagram. NLP adalah cabang ilmu komputer yang berfokus pada pemahaman dan pengolahan bahasa alami manusia oleh mesin komputer, sedangkan analisis sentimen adalah proses untuk mengekstrak dan memahami opini, emosi, dan perasaan dari teks yang ditulis oleh manusia.
+Dari hasil beberapa experiment yang dilakukan didapatkan kesimpulan bahwa saat experiment pertama dengan menggunakan epoch 50, batch size 32, model arsitektur LSTM, dan optimizer Adam mendapat loss 6% dan accuracy 91,6%.!
